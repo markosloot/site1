@@ -159,7 +159,7 @@ ul {
 }
 
 .about__us__block__img {
-  background-image: url(/img/about.jpg);
+  background-image: url(../img/about.jpg);
   height: 400px;
   width: 500px;
   background-position: center;
@@ -299,7 +299,7 @@ ul {
 .all_projects_container {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: centerr;
 }
 
 .all_projects_container h1 {
@@ -328,7 +328,7 @@ ul {
 }
 
 .video_page {
-  background-image: url(/img/bg_works.jpg);
+  background-image: url(../img/bg_works.jpg);
   background-repeat: no-repeat;
 }
 
@@ -355,7 +355,7 @@ ul {
 }
 
 .video_player {
-  background-image: url(/img/video_work.jpg);
+  background-image: url(../img/video_work.jpg);
   background-position: center;
   border-radius: 10px;
   height: 430px;
